@@ -2,7 +2,7 @@
 
 ### [Hidden Gems in Swift](hidden-gems-in-swift)
 
-Presented at [MobileWarsaw #27](http://www.meetup.com/Mobile-Warsaw/events/223922623/) on July 20, 2015.
+Presented at [Mobile Warsaw #27](http://www.meetup.com/Mobile-Warsaw/events/223922623/) on July 20, 2015.
 
 In this talk we'll dig into some rarely discussed Swift features, such as literal convertibles, interpolation convertibles, pattern matching, reflection and advanced Objective-C bridging.
 
@@ -10,7 +10,7 @@ In this talk we'll dig into some rarely discussed Swift features, such as litera
 
 ### [Programming Paradigms](programming-paradigms)
 
-Presented at [infoMEET Warszawa](http://novial.pl/infomeet/p/35/infomeet-warszawa) on February 21, 2015.
+Presented at [InfoMEET Warszawa](http://novial.pl/infomeet/p/35/infomeet-warszawa) on February 21, 2015.
 
 This talk will explain three mainstream programming paradigms – objective, imperative and declarative. We're also try to answer the question of which one of them is the best.
 
