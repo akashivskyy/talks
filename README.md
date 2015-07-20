@@ -14,5 +14,5 @@ Presented at [infoMEET Warszawa](http://novial.pl/infomeet/p/35/infomeet-warszaw
 
 This talk will explain three mainstream programming paradigms – objective, imperative and declarative. We're also try to answer the question of which one of them is the best.
 
-- [Slide Share presentation: Programming Paradigms](https://www.slideshare.net/netguru/programming-paradigms-which-one-is-the-best)
+- [Speaker Deck presentation: Programming Paradigms](https://speakerdeck.com/akashivskyy/programming-paradigms)
 - [Follow-up blogpost: Imperative vs. declarative programming](https://netguru.co/blog/imperative-vs-declarative)
