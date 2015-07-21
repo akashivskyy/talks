@@ -1,0 +1,36 @@
+#
+#  .gitignore
+#
+#  Copyright (c) 2015 Adrian Kashivskyy. All rights reserved.
+#
+
+.DS_Store
+.localized
+
+xcuserdata
+profile
+build
+output
+DerivedData
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xccheckout
+*.xctimeline
+*.moved-aside
+*.hmap
+*.ipa
+*.o
+*.LinkFileList
+*.hmap
+*~.nib
+*.swp
+*.dat
+*.dep
+
+.idea
+*.iml
+
+Pods
+Carthage
