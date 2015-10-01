@@ -7,6 +7,7 @@ Presented at [Mobile Warsaw #27](http://www.meetup.com/Mobile-Warsaw/events/2239
 In this talk we'll dig into some rarely discussed Swift features, such as literal convertibles, interpolation convertibles, pattern matching, reflection and advanced Objective-C bridging.
 
 - [Speaker Deck presentation: Hidden Gems in Swift](https://speakerdeck.com/akashivskyy/hidden-gems-in-swift)
+- [YouTube video: Adrian Kashivskyy – Hidden gems in Swift](https://www.youtube.com/watch?v=NP7PdeZv75w)
 
 ### [Programming Paradigms](programming-paradigms)
 
