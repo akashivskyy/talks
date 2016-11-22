@@ -8,6 +8,15 @@ If you ever wondered whether it is possible for your project to test itself, sea
 
 - [Speaker Deck presentation: Don't write tests... Generate them!](https://speakerdeck.com/akashivskyy/dont-write-tests-dot-dot-dot-generate-them)
 
+### [Wrapping C libraries in Swift](c-libs-in-swift)
+
+Presented on [Mobile Warsaw #42](http://mobile-warsaw.pl/meetup_042.html) on October 17, 2016.
+
+One of Swift’s greatest strengths is its seamless interoperability with C and Objective-C. During my talk, I will discuss a practical approach to wrapping existing C libraries in Swift and designing a natural API on top.
+
+- [Speaker Deck presentation – Wrapping C libraries in Swift](https://speakerdeck.com/akashivskyy/wrapping-c-libraries-in-swift)
+- [YouTube video: Adrian Kashivskyy – A practical guide to wrapping C libraries in Swift](https://www.youtube.com/watch?v=XOtGbFQv5Wg)
+
 ### [Hidden Gems in Swift](hidden-gems-in-swift)
 
 Presented at [Mobile Warsaw #27](http://www.meetup.com/Mobile-Warsaw/events/223922623/) on July 20, 2015.
