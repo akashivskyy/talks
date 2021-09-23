@@ -1,36 +1,52 @@
 # Adrian Kashivskyy's Talks
 
-### [Don't write tests... Generate them!](swiftcheck)
+## 2019
 
-Presented at [let Swift #5](https://www.facebook.com/events/1769082693354650/) on November 17, 2016.
+### Setting up projects with xcconfigs
 
-If you ever wondered whether it is possible for your project to test itself, search no more! During this talk, we'll go over the basics of Property-Based Testing and composing unit tests using generators which look for edge cases by themselves. Inspired by [Brian Gesiak's talk at Functional Swift Conference 2014](http://2014.funswiftconf.com/speakers/brian.html).
+Presented on [Mobile Warsaw #68](https://www.meetup.com/Mobile-Warsaw/events/259119040) on February 26, 2019.
 
-- [Speaker Deck presentation: Don't write tests... Generate them!](https://speakerdeck.com/akashivskyy/dont-write-tests-dot-dot-dot-generate-them)
+I will talk about one of the most underrated Xcode features — the ability to define build settings in separate, external files. I will start by showing the problems with defining build settings in the UI and then I'll move on to xcconfigs, focusing on its syntax and unique features.
 
-### [Wrapping C libraries in Swift](c-libs-in-swift)
+[Resources](2019-xcconfigs),
+[Slides](https://speakerdeck.com/akashivskyy/setting-up-projects-with-xcconfigs),
+[Recording](https://youtube.com/watch?v=1cuwhLPaeTk).
+
+## 2017
+
+### Generating tests with SwiftCheck
+
+Presented on [Swift.map #3](https://www.facebook.com/events/570088463329510) on December 12, 2017.
+
+I will share how to take advantage of property-based testing using SwiftCheck and use it to catch bugs before even encountering them during manual testing. I will start by discussing what's most important about writing tests and then I'll present how you can use SwiftCheck to make your computer generate tests for you.
+
+[Resources](2017-swiftcheck),
+[Slides](https://speakerdeck.com/akashivskyy/generating-tests-with-swiftcheck).
+
+## 2016
+
+### Wrapping C libraries in Swift
 
 Presented on [Mobile Warsaw #42](http://mobile-warsaw.pl/meetup_042.html) on October 17, 2016.
 
-One of Swift’s greatest strengths is its seamless interoperability with C and Objective-C. During my talk, I will discuss a practical approach to wrapping existing C libraries in Swift and designing a natural API on top.
+One of Swift’s greatest strengths is its seamless interoperability with C and Objective-C. During this talk, I will discuss a practical approach to wrapping existing C libraries in Swift and designing a natural API on top of them.
 
-- [Speaker Deck presentation – Wrapping C libraries in Swift](https://speakerdeck.com/akashivskyy/wrapping-c-libraries-in-swift)
-- [YouTube video: Adrian Kashivskyy – A practical guide to wrapping C libraries in Swift](https://www.youtube.com/watch?v=XOtGbFQv5Wg)
+The contents of this talk are outdated.
 
-### [Hidden Gems in Swift](hidden-gems-in-swift)
+[Resources](2016-c-libs-in-swift),
+[Slides](https://speakerdeck.com/akashivskyy/wrapping-c-libraries-in-swift),
+[Recording](https://youtube.com/watch?v=XOtGbFQv5Wg).
+
+## 2015
+
+### Hidden Gems in Swift
 
 Presented at [Mobile Warsaw #27](http://www.meetup.com/Mobile-Warsaw/events/223922623/) on July 20, 2015.
 
-In this talk we'll dig into some rarely discussed Swift features, such as literal convertibles, interpolation convertibles, pattern matching, reflection and advanced Objective-C bridging.
+In this talk, I will dig into some rarely discussed Swift features, such as literal convertibles, interpolation convertibles, pattern matching, reflection and advanced Objective-C bridging.
 
-- [Speaker Deck presentation: Hidden Gems in Swift](https://speakerdeck.com/akashivskyy/hidden-gems-in-swift)
-- [YouTube video: Adrian Kashivskyy – Hidden gems in Swift](https://www.youtube.com/watch?v=NP7PdeZv75w)
+The contents of this talk are outdated.
 
-### [Programming Paradigms](programming-paradigms)
-
-Presented at [InfoMEET Warszawa](http://novial.pl/infomeet/p/35/infomeet-warszawa) on February 21, 2015.
-
-This talk will explain three mainstream programming paradigms – objective, imperative and declarative. We're also try to answer the question of which one of them is the best.
-
-- [Speaker Deck presentation: Programming Paradigms](https://speakerdeck.com/akashivskyy/programming-paradigms)
-- [Follow-up blogpost: Imperative vs. declarative programming](https://netguru.co/blog/imperative-vs-declarative)
+[Resources](2015-hidden-gems-in-swift),
+[Slides](https://speakerdeck.com/akashivskyy/hidden-gems-in-swift),
+[Recording](https://www.youtube.com/watch?v=NP7PdeZv75w).
